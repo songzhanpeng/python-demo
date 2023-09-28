@@ -1,0 +1,330 @@
+{
+    "条件新": [
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "雨量强度",
+            "SKILL DESC": NaN,
+            "CLASS": NaN,
+            "SORT": NaN,
+            "INPUT ARG VALUE": NaN,
+            "INPUT ARG DESC": NaN,
+            "NO.": NaN,
+            "Design切图命名": "icon_condition_RainfallIntensity"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "道路类型",
+            "SKILL DESC": NaN,
+            "CLASS": NaN,
+            "SORT": NaN,
+            "INPUT ARG VALUE": NaN,
+            "INPUT ARG DESC": NaN,
+            "NO.": NaN,
+            "Design切图命名": "icon_condition_Road"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "无线充电状态",
+            "SKILL DESC": NaN,
+            "CLASS": NaN,
+            "SORT": NaN,
+            "INPUT ARG VALUE": NaN,
+            "INPUT ARG DESC": NaN,
+            "NO.": NaN,
+            "Design切图命名": "icon_condition_WirelessChargingStatus"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "性别",
+            "SKILL DESC": NaN,
+            "CLASS": NaN,
+            "SORT": NaN,
+            "INPUT ARG VALUE": NaN,
+            "INPUT ARG DESC": NaN,
+            "NO.": NaN,
+            "Design切图命名": "icon_condition_Gender"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "副驾驶性别",
+            "SKILL DESC": NaN,
+            "CLASS": NaN,
+            "SORT": NaN,
+            "INPUT ARG VALUE": NaN,
+            "INPUT ARG DESC": NaN,
+            "NO.": NaN,
+            "Design切图命名": "icon_action_GenderOfCoDriver"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "疲劳",
+            "SKILL DESC": NaN,
+            "CLASS": NaN,
+            "SORT": NaN,
+            "INPUT ARG VALUE": NaN,
+            "INPUT ARG DESC": NaN,
+            "NO.": NaN,
+            "Design切图命名": "icon_condition_Tired"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "分心",
+            "SKILL DESC": NaN,
+            "CLASS": NaN,
+            "SORT": NaN,
+            "INPUT ARG VALUE": NaN,
+            "INPUT ARG DESC": NaN,
+            "NO.": NaN,
+            "Design切图命名": "icon_condition_Distraction"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "服饰颜色",
+            "SKILL DESC": NaN,
+            "CLASS": NaN,
+            "SORT": NaN,
+            "INPUT ARG VALUE": NaN,
+            "INPUT ARG DESC": NaN,
+            "NO.": NaN,
+            "Design切图命名": "icon_condition_ClothingColor"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "放电状态",
+            "SKILL DESC": NaN,
+            "CLASS": NaN,
+            "SORT": NaN,
+            "INPUT ARG VALUE": NaN,
+            "INPUT ARG DESC": NaN,
+            "NO.": NaN,
+            "Design切图命名": "icon_action_DischargeState"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": NaN,
+            "SKILL DESC": NaN,
+            "CLASS": NaN,
+            "SORT": NaN,
+            "INPUT ARG VALUE": NaN,
+            "INPUT ARG DESC": NaN,
+            "NO.": NaN,
+            "Design切图命名": NaN
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": " ",
+            "SKILL DESC": NaN,
+            "CLASS": NaN,
+            "SORT": NaN,
+            "INPUT ARG VALUE": NaN,
+            "INPUT ARG DESC": NaN,
+            "NO.": NaN,
+            "Design切图命名": NaN
+        }
+    ],
+    "动作新": [
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "全车空调温度同步",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_TemperatureSynchronization"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "前除霜",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_FrontDefrosting"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "空调工作模式",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_HAVCWorkingMode"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "负离子",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_NegativeIon"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "远光灯闪烁",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_HighBeam"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "干燥除味",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_DryDeodorization"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "电动桌板",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_ElectricTable"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "禁用雨刮",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_DisableRainHanger"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "屏幕滑动",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_ScreenSliding"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "解锁通风开关",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_ReleaseVentSwitch"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "视线唤醒",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_EyeAwakening"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "香氛运行时间",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_FragranceRunningTime"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "导航路线推荐",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_condition_NavigationRouteRecommendation"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "高音控制",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_TREBLE"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "中音控制",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_MidToneControl"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "低音控制",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_BASS"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "重低音控制",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_SubwooferControl"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "屏幕开关",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_ScreenSwitch"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "屏幕滑动禁用",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_ScreenSlidingDisabled"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "播放模式",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_PlaybackMode"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "开始播放",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_StartPlaying"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "暂停播放",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_StopPlaying"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "下一曲",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_NextSong"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "上一曲",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_PreviousSong"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "照片",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_Photo"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "录像",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_PictureRecording"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "播报天气",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_BroadcastWeather"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "兴趣点搜索",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_condition_PointOfInterest"
+        },
+        {
+            "SKILL ID": NaN,
+            "SKILL NAME": "导航到目的地",
+            "能力定义（要清晰明确功能）": NaN,
+            "备注": NaN,
+            "Design切图命名": "icon_action_Navi"
+        }
+    ]
+}
