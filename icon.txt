@@ -1,1166 +1,1172 @@
 {
-    "前排自动_n": {
+    "41217": {
         "commandIcon": require("./white/前排自动_n.png"),
         "conditionIcon": require("./black/前排自动_n.png"),
-        "name": "前排自动_n",
-        "includes": [41217],
+        "name": "41217",
     },
-    "主驾空调自动_n": {
+    "41218": {
         "commandIcon": require("./white/主驾空调自动_n.png"),
         "conditionIcon": require("./black/主驾空调自动_n.png"),
-        "name": "主驾空调自动_n",
-        "includes": [41218],
+        "name": "41218",
     },
-    "副驾空调自动_n": {
+    "41219": {
         "commandIcon": require("./white/副驾空调自动_n.png"),
         "conditionIcon": require("./black/副驾空调自动_n.png"),
-        "name": "副驾空调自动_n",
-        "includes": [41219],
+        "name": "41219",
     },
-    "后左空调自动_n": {
+    "41220": {
         "commandIcon": require("./white/后左空调自动_n.png"),
         "conditionIcon": require("./black/后左空调自动_n.png"),
-        "name": "后左空调自动_n",
-        "includes": [41220],
+        "name": "41220",
     },
-    "后右空调自动_n": {
+    "41221": {
         "commandIcon": require("./white/后右空调自动_n.png"),
         "conditionIcon": require("./black/后右空调自动_n.png"),
-        "name": "后右空调自动_n",
-        "includes": [41221],
+        "name": "41221",
     },
-    "主驾空调温度_n": {
+    "41222": {
         "commandIcon": require("./white/主驾空调温度_n.png"),
         "conditionIcon": require("./black/主驾空调温度_n.png"),
-        "name": "主驾空调温度_n",
-        "includes": [41222, 62465, 62466],
+        "name": "41222",
     },
-    "副驾空调温度_n": {
+    "41223": {
         "commandIcon": require("./white/副驾空调温度_n.png"),
         "conditionIcon": require("./black/副驾空调温度_n.png"),
-        "name": "副驾空调温度_n",
-        "includes": [41223, 62469, 62470],
+        "name": "41223",
     },
-    "后左空调温度调节_n": {
+    "41224": {
         "commandIcon": require("./white/后左空调温度调节_n.png"),
         "conditionIcon": require("./black/后左空调温度调节_n.png"),
-        "name": "后左空调温度调节_n",
-        "includes": [41224, 62473, 62474],
+        "name": "41224",
     },
-    "后右空调温度_n": {
+    "41225": {
         "commandIcon": require("./white/后右空调温度_n.png"),
         "conditionIcon": require("./black/后右空调温度_n.png"),
-        "name": "后右空调温度_n",
-        "includes": [41225, 62477, 62478],
+        "name": "41225",
     },
-    "前排吹风模式_n": {
+    "41226": {
         "commandIcon": require("./white/前排吹风模式_n.png"),
         "conditionIcon": require("./black/前排吹风模式_n.png"),
-        "name": "前排吹风模式_n",
-        "includes": [41226],
+        "name": "41226",
     },
-    "主驾吹风模式_n": {
+    "41227": {
         "commandIcon": require("./white/主驾吹风模式_n.png"),
         "conditionIcon": require("./black/主驾吹风模式_n.png"),
-        "name": "主驾吹风模式_n",
-        "includes": [41227],
+        "name": "41227",
     },
-    "副驾吹风模式_n": {
+    "41228": {
         "commandIcon": require("./white/副驾吹风模式_n.png"),
         "conditionIcon": require("./black/副驾吹风模式_n.png"),
-        "name": "副驾吹风模式_n",
-        "includes": [41228],
+        "name": "41228",
     },
-    "后左吹风模式_n": {
+    "41229": {
         "commandIcon": require("./white/后左吹风模式_n.png"),
         "conditionIcon": require("./black/后左吹风模式_n.png"),
-        "name": "后左吹风模式_n",
-        "includes": [41229],
+        "name": "41229",
     },
-    "后右吹风模式_n": {
+    "41230": {
         "commandIcon": require("./white/后右吹风模式_n.png"),
         "conditionIcon": require("./black/后右吹风模式_n.png"),
-        "name": "后右吹风模式_n",
-        "includes": [41230],
+        "name": "41230",
     },
-    "前排风量_n": {
+    "41231": {
         "commandIcon": require("./white/前排风量_n.png"),
         "conditionIcon": require("./black/前排风量_n.png"),
-        "name": "前排风量_n",
-        "includes": [41231, 62481, 62482],
+        "name": "41231",
     },
-    "主驾驶风量_n": {
+    "41232": {
         "commandIcon": require("./white/主驾驶风量_n.png"),
         "conditionIcon": require("./black/主驾驶风量_n.png"),
-        "name": "主驾驶风量_n",
-        "includes": [41232, 62467, 62468],
+        "name": "41232",
     },
-    "副驾空调风量_n": {
+    "41233": {
         "commandIcon": require("./white/副驾空调风量_n.png"),
         "conditionIcon": require("./black/副驾空调风量_n.png"),
-        "name": "副驾空调风量_n",
-        "includes": [41233, 62471, 62472],
+        "name": "41233",
     },
-    "后左风量_n": {
+    "41234": {
         "commandIcon": require("./white/后左风量_n.png"),
         "conditionIcon": require("./black/后左风量_n.png"),
-        "name": "后左风量_n",
-        "includes": [41234, 62475, 62476],
+        "name": "41234",
     },
-    "后右风量_n": {
+    "41235": {
         "commandIcon": require("./white/后右风量_n.png"),
         "conditionIcon": require("./black/后右风量_n.png"),
-        "name": "后右风量_n",
-        "includes": [41235, 62479, 62480],
+        "name": "41235",
     },
-    "前排ac开关_n": {
+    "41236": {
         "commandIcon": require("./white/前排ac开关_n.png"),
         "conditionIcon": require("./black/前排ac开关_n.png"),
-        "name": "前排ac开关_n",
-        "includes": [41236],
+        "name": "41236",
     },
-    "后排ac开关_n": {
+    "41237": {
         "commandIcon": require("./white/后排ac开关_n.png"),
         "conditionIcon": require("./black/后排ac开关_n.png"),
-        "name": "后排ac开关_n",
-        "includes": [41237],
+        "name": "41237",
     },
-    "空调全部开关_n": {
+    "41238": {
         "commandIcon": require("./white/空调全部开关_n.png"),
         "conditionIcon": require("./black/空调全部开关_n.png"),
-        "name": "空调全部开关_n",
-        "includes": [41238],
+        "name": "41238",
     },
-    "前排空调开关_n": {
+    "41239": {
         "commandIcon": require("./white/前排空调开关_n.png"),
         "conditionIcon": require("./black/前排空调开关_n.png"),
-        "name": "前排空调开关_n",
-        "includes": [41239],
+        "name": "41239",
     },
-    "空调后排ac开关_n": {
+    "41240": {
         "commandIcon": require("./white/空调后排ac开关_n.png"),
         "conditionIcon": require("./black/空调后排ac开关_n.png"),
-        "name": "空调后排ac开关_n",
-        "includes": [41240],
+        "name": "41240",
     },
-    "空气净化_n": {
+    "41241": {
         "commandIcon": require("./white/空气净化_n.png"),
         "conditionIcon": require("./black/空气净化_n.png"),
-        "name": "空气净化_n",
-        "includes": [41241],
+        "name": "41241",
     },
-    "负离子_n": {
+    "41242": {
         "commandIcon": require("./white/负离子_n.png"),
         "conditionIcon": require("./black/负离子_n.png"),
-        "name": "负离子_n",
-        "includes": [41242],
+        "name": "41242",
     },
-    "内外循环_n": {
+    "41243": {
         "commandIcon": require("./white/内外循环_n.png"),
         "conditionIcon": require("./black/内外循环_n.png"),
-        "name": "内外循环_n",
-        "includes": [41243],
+        "name": "41243",
     },
-    "外后视镜加热_n": {
+    "41244": {
         "commandIcon": require("./white/外后视镜加热_n.png"),
         "conditionIcon": require("./black/外后视镜加热_n.png"),
-        "name": "外后视镜加热_n",
-        "includes": [41244],
+        "name": "41244",
     },
-    "主驾座椅记忆_n": {
+    "41473": {
         "commandIcon": require("./white/主驾座椅记忆_n.png"),
         "conditionIcon": require("./black/主驾座椅记忆_n.png"),
-        "name": "主驾座椅记忆_n",
-        "includes": [41473],
+        "name": "41473",
     },
-    "主驾前后调节_n": {
+    "41474": {
         "commandIcon": require("./white/主驾前后调节_n.png"),
         "conditionIcon": require("./black/主驾前后调节_n.png"),
-        "name": "主驾前后调节_n",
-        "includes": [41474],
+        "name": "41474",
     },
-    "主驾背靠调角度_n": {
+    "41475": {
         "commandIcon": require("./white/主驾背靠调角度_n.png"),
         "conditionIcon": require("./black/主驾背靠调角度_n.png"),
-        "name": "主驾背靠调角度_n",
-        "includes": [41475],
+        "name": "41475",
     },
-    "主驾腰托位置_n": {
+    "41476": {
         "commandIcon": require("./white/主驾腰托位置_n.png"),
         "conditionIcon": require("./black/主驾腰托位置_n.png"),
-        "name": "主驾腰托位置_n",
-        "includes": [41476],
+        "name": "41476",
     },
-    "主驾坐垫高度_n": {
+    "41477": {
         "commandIcon": require("./white/主驾坐垫高度_n.png"),
         "conditionIcon": require("./black/主驾坐垫高度_n.png"),
-        "name": "主驾坐垫高度_n",
-        "includes": [41477],
+        "name": "41477",
     },
-    "副驾前后调节_n": {
+    "41478": {
         "commandIcon": require("./white/副驾前后调节_n.png"),
         "conditionIcon": require("./black/副驾前后调节_n.png"),
-        "name": "副驾前后调节_n",
-        "includes": [41478],
+        "name": "41478",
     },
-    "副驾背靠角度_n": {
+    "41479": {
         "commandIcon": require("./white/副驾背靠角度_n.png"),
         "conditionIcon": require("./black/副驾背靠角度_n.png"),
-        "name": "副驾背靠角度_n",
-        "includes": [41479],
+        "name": "41479",
     },
-    "副驾坐垫高度_n": {
+    "41480": {
         "commandIcon": require("./white/副驾坐垫高度_n.png"),
         "conditionIcon": require("./black/副驾坐垫高度_n.png"),
-        "name": "副驾坐垫高度_n",
-        "includes": [41480],
+        "name": "41480",
     },
-    "副驾一键复位_n": {
+    "41481": {
         "commandIcon": require("./white/副驾一键复位_n.png"),
         "conditionIcon": require("./black/副驾一键复位_n.png"),
-        "name": "副驾一键复位_n",
-        "includes": [41481],
+        "name": "41481",
     },
-    "右后座椅复位_n": {
+    "41482": {
         "commandIcon": require("./white/右后座椅复位_n.png"),
         "conditionIcon": require("./black/右后座椅复位_n.png"),
-        "name": "右后座椅复位_n",
-        "includes": [41482],
+        "name": "41482",
     },
-    "右后座椅自适应_n": {
+    "41483": {
         "commandIcon": require("./white/右后座椅自适应_n.png"),
         "conditionIcon": require("./black/右后座椅自适应_n.png"),
-        "name": "右后座椅自适应_n",
-        "includes": [41483],
+        "name": "41483",
     },
-    "主驾座椅通风_n": {
+    "41484": {
         "commandIcon": require("./white/主驾座椅通风_n.png"),
         "conditionIcon": require("./black/主驾座椅通风_n.png"),
-        "name": "主驾座椅通风_n",
-        "includes": [41484],
+        "name": "41484",
     },
-    "副驾座椅通风_n": {
+    "41485": {
         "commandIcon": require("./white/副驾座椅通风_n.png"),
         "conditionIcon": require("./black/副驾座椅通风_n.png"),
-        "name": "副驾座椅通风_n",
-        "includes": [41485],
+        "name": "41485",
     },
-    "左后座椅通风_n": {
+    "41486": {
         "commandIcon": require("./white/左后座椅通风_n.png"),
         "conditionIcon": require("./black/左后座椅通风_n.png"),
-        "name": "左后座椅通风_n",
-        "includes": [41486],
+        "name": "41486",
     },
-    "右后座椅通风_n": {
+    "41487": {
         "commandIcon": require("./white/右后座椅通风_n.png"),
         "conditionIcon": require("./black/右后座椅通风_n.png"),
-        "name": "右后座椅通风_n",
-        "includes": [41487],
+        "name": "41487",
     },
-    "方向盘加热_n": {
+    "41488": {
         "commandIcon": require("./white/方向盘加热_n.png"),
         "conditionIcon": require("./black/方向盘加热_n.png"),
-        "name": "方向盘加热_n",
-        "includes": [41488],
+        "name": "41488",
     },
-    "主驾座椅舒适加热_n": {
+    "41489": {
         "commandIcon": require("./white/主驾座椅舒适加热_n.png"),
         "conditionIcon": require("./black/主驾座椅舒适加热_n.png"),
-        "name": "主驾座椅舒适加热_n",
-        "includes": [41489],
+        "name": "41489",
     },
-    "副驾座椅舒适加热_n": {
+    "41490": {
         "commandIcon": require("./white/副驾座椅舒适加热_n.png"),
         "conditionIcon": require("./black/副驾座椅舒适加热_n.png"),
-        "name": "副驾座椅舒适加热_n",
-        "includes": [41490],
+        "name": "41490",
     },
-    "左后座椅舒适加热_n": {
+    "41491": {
         "commandIcon": require("./white/左后座椅舒适加热_n.png"),
         "conditionIcon": require("./black/左后座椅舒适加热_n.png"),
-        "name": "左后座椅舒适加热_n",
-        "includes": [41491],
+        "name": "41491",
     },
-    "右后座椅舒适加热_n": {
+    "41492": {
         "commandIcon": require("./white/右后座椅舒适加热_n.png"),
         "conditionIcon": require("./black/右后座椅舒适加热_n.png"),
-        "name": "右后座椅舒适加热_n",
-        "includes": [41492],
+        "name": "41492",
     },
-    "主驾按摩强度_n": {
+    "41493": {
         "commandIcon": require("./white/主驾按摩强度_n.png"),
         "conditionIcon": require("./black/主驾按摩强度_n.png"),
-        "name": "主驾按摩强度_n",
-        "includes": [41493],
+        "name": "41493",
     },
-    "副驾按摩强度_n": {
+    "41494": {
         "commandIcon": require("./white/副驾按摩强度_n.png"),
         "conditionIcon": require("./black/副驾按摩强度_n.png"),
-        "name": "副驾按摩强度_n",
-        "includes": [41494],
+        "name": "41494",
     },
-    "左后按摩强度_n": {
+    "41495": {
         "commandIcon": require("./white/左后按摩强度_n.png"),
         "conditionIcon": require("./black/左后按摩强度_n.png"),
-        "name": "左后按摩强度_n",
-        "includes": [41495],
+        "name": "41495",
     },
-    "右后按摩强度_n": {
+    "41496": {
         "commandIcon": require("./white/右后按摩强度_n.png"),
         "conditionIcon": require("./black/右后按摩强度_n.png"),
-        "name": "右后按摩强度_n",
-        "includes": [41496],
+        "name": "41496",
     },
-    "主驾按摩模式_n": {
+    "41497": {
         "commandIcon": require("./white/主驾按摩模式_n.png"),
         "conditionIcon": require("./black/主驾按摩模式_n.png"),
-        "name": "主驾按摩模式_n",
-        "includes": [41497],
+        "name": "41497",
     },
-    "副驾按摩模式_n": {
+    "41498": {
         "commandIcon": require("./white/副驾按摩模式_n.png"),
         "conditionIcon": require("./black/副驾按摩模式_n.png"),
-        "name": "副驾按摩模式_n",
-        "includes": [41498],
+        "name": "41498",
     },
-    "左后按摩模式_n": {
+    "41499": {
         "commandIcon": require("./white/左后按摩模式_n.png"),
         "conditionIcon": require("./black/左后按摩模式_n.png"),
-        "name": "左后按摩模式_n",
-        "includes": [41499],
+        "name": "41499",
     },
-    "右后按摩模式_n": {
+    "41500": {
         "commandIcon": require("./white/右后按摩模式_n.png"),
         "conditionIcon": require("./black/右后按摩模式_n.png"),
-        "name": "右后按摩模式_n",
-        "includes": [41500],
+        "name": "41500",
     },
-    "悬架高度_n": {
+    "42481": {
         "commandIcon": require("./white/悬架高度_n.png"),
         "conditionIcon": require("./black/悬架高度_n.png"),
-        "name": "悬架高度_n",
-        "includes": [42481],
+        "name": "42481",
     },
-    "驾驶模式_n": {
+    "42482": {
         "commandIcon": require("./white/驾驶模式_n.png"),
         "conditionIcon": require("./black/驾驶模式_n.png"),
-        "name": "驾驶模式_n",
-        "includes": [42482],
+        "name": "42482",
     },
-    "停止充电_n": {
+    "42483": {
         "commandIcon": require("./white/停止充电_n.png"),
         "conditionIcon": require("./black/停止充电_n.png"),
-        "name": "停止充电_n",
-        "includes": [42483],
+        "name": "42483",
     },
-    "放电电量_n": {
+    "42484": {
         "commandIcon": require("./white/放电电量_n.png"),
         "conditionIcon": require("./black/放电电量_n.png"),
-        "name": "放电电量_n",
-        "includes": [42484],
+        "name": "42484",
     },
-    "能源模式_n": {
+    "42485": {
         "commandIcon": require("./white/能源模式_n.png"),
         "conditionIcon": require("./black/能源模式_n.png"),
-        "name": "能源模式_n",
-        "includes": [42485],
+        "name": "42485",
     },
-    "能量回收_n": {
+    "42486": {
         "commandIcon": require("./white/能量回收_n.png"),
         "conditionIcon": require("./black/能量回收_n.png"),
-        "name": "能量回收_n",
-        "includes": [42486],
+        "name": "42486",
     },
-    "360摄像头_n": {
+    "42487": {
         "commandIcon": require("./white/360摄像头_n.png"),
         "conditionIcon": require("./black/360摄像头_n.png"),
-        "name": "360摄像头_n",
-        "includes": [42487],
+        "name": "42487",
     },
-    "门锁控制_n": {
+    "41985": {
         "commandIcon": require("./white/门锁控制_n.png"),
         "conditionIcon": require("./black/门锁控制_n.png"),
-        "name": "门锁控制_n",
-        "includes": [41985, 62726],
+        "name": "41985",
     },
-    "儿童锁控制_n": {
+    "41986": {
         "commandIcon": require("./white/儿童锁控制_n.png"),
         "conditionIcon": require("./black/儿童锁控制_n.png"),
-        "name": "儿童锁控制_n",
-        "includes": [41986, 62727],
+        "name": "41986",
     },
-    "电动尾门_n": {
+    "41987": {
         "commandIcon": require("./white/电动尾门_n.png"),
         "conditionIcon": require("./black/电动尾门_n.png"),
-        "name": "电动尾门_n",
-        "includes": [41987],
+        "name": "41987",
     },
-    "油箱口盖_n": {
+    "41988": {
         "commandIcon": require("./white/油箱口盖_n.png"),
         "conditionIcon": require("./black/油箱口盖_n.png"),
-        "name": "油箱口盖_n",
-        "includes": [41988, 62728],
+        "name": "41988",
     },
-    "充电口盖_n": {
+    "41989": {
         "commandIcon": require("./white/充电口盖_n.png"),
         "conditionIcon": require("./black/充电口盖_n.png"),
-        "name": "充电口盖_n",
-        "includes": [41989, 62729],
+        "name": "41989",
     },
-    "主驾车窗_n": {
+    "41990": {
         "commandIcon": require("./white/主驾车窗_n.png"),
         "conditionIcon": require("./black/主驾车窗_n.png"),
-        "name": "主驾车窗_n",
-        "includes": [41990, 62977],
+        "name": "41990",
     },
-    "副驾车窗_n": {
+    "41991": {
         "commandIcon": require("./white/副驾车窗_n.png"),
         "conditionIcon": require("./black/副驾车窗_n.png"),
-        "name": "副驾车窗_n",
-        "includes": [41991, 62978],
+        "name": "41991",
     },
-    "左后车窗_n": {
+    "41992": {
         "commandIcon": require("./white/左后车窗_n.png"),
         "conditionIcon": require("./black/左后车窗_n.png"),
-        "name": "左后车窗_n",
-        "includes": [41992, 62979],
+        "name": "41992",
     },
-    "右后车窗_n": {
+    "41993": {
         "commandIcon": require("./white/右后车窗_n.png"),
         "conditionIcon": require("./black/右后车窗_n.png"),
-        "name": "右后车窗_n",
-        "includes": [41993, 62980],
+        "name": "41993",
     },
-    "全车车窗_n": {
+    "41994": {
         "commandIcon": require("./white/全车车窗_n.png"),
         "conditionIcon": require("./black/全车车窗_n.png"),
-        "name": "全车车窗_n",
-        "includes": [41994],
+        "name": "41994",
     },
-    "天窗遮阳帘_n": {
+    "41995": {
         "commandIcon": require("./white/天窗遮阳帘_n.png"),
         "conditionIcon": require("./black/天窗遮阳帘_n.png"),
-        "name": "天窗遮阳帘_n",
-        "includes": [41995, 62982, 62983],
+        "name": "41995",
     },
-    "雨刮单次动作_n": {
+    "41996": {
         "commandIcon": require("./white/雨刮单次动作_n.png"),
         "conditionIcon": require("./black/雨刮单次动作_n.png"),
-        "name": "雨刮单次动作_n",
-        "includes": [41996],
+        "name": "41996",
     },
-    "后视镜加热_n": {
+    "41997": {
         "commandIcon": require("./white/后视镜加热_n.png"),
         "conditionIcon": require("./black/后视镜加热_n.png"),
-        "name": "后视镜加热_n",
-        "includes": [41997],
+        "name": "41997",
     },
-    "近光灯闪烁_n": {
+    "42241": {
         "commandIcon": require("./white/近光灯闪烁_n.png"),
         "conditionIcon": require("./black/近光灯闪烁_n.png"),
-        "name": "近光灯闪烁_n",
-        "includes": [42241],
+        "name": "42241",
     },
-    "近光灯高度_n": {
+    "42242": {
         "commandIcon": require("./white/近光灯高度_n.png"),
         "conditionIcon": require("./black/近光灯高度_n.png"),
-        "name": "近光灯高度_n",
-        "includes": [42242],
+        "name": "42242",
     },
-    "雾灯_n": {
+    "42244": {
         "commandIcon": require("./white/雾灯_n.png"),
         "conditionIcon": require("./black/雾灯_n.png"),
-        "name": "雾灯_n",
-        "includes": [42244],
+        "name": "42244",
     },
-    "泊车迎宾灯_n": {
+    "42245": {
         "commandIcon": require("./white/泊车迎宾灯_n.png"),
         "conditionIcon": require("./black/泊车迎宾灯_n.png"),
-        "name": "泊车迎宾灯_n",
-        "includes": [42245, 42246],
+        "name": "42245",
     },
-    "全部阅读灯_n": {
+    "42246": {
+        "commandIcon": require("./white/泊车迎宾灯_n.png"),
+        "conditionIcon": require("./black/泊车迎宾灯_n.png"),
+        "name": "42246",
+    },
+    "42247": {
         "commandIcon": require("./white/全部阅读灯_n.png"),
         "conditionIcon": require("./black/全部阅读灯_n.png"),
-        "name": "全部阅读灯_n",
-        "includes": [42247],
+        "name": "42247",
     },
-    "主驾阅读灯_n": {
+    "42248": {
         "commandIcon": require("./white/主驾阅读灯_n.png"),
         "conditionIcon": require("./black/主驾阅读灯_n.png"),
-        "name": "主驾阅读灯_n",
-        "includes": [42248],
+        "name": "42248",
     },
-    "副驾阅读灯_n": {
+    "42249": {
         "commandIcon": require("./white/副驾阅读灯_n.png"),
         "conditionIcon": require("./black/副驾阅读灯_n.png"),
-        "name": "副驾阅读灯_n",
-        "includes": [42249],
+        "name": "42249",
     },
-    "左后阅读灯_n": {
+    "42250": {
         "commandIcon": require("./white/左后阅读灯_n.png"),
         "conditionIcon": require("./black/左后阅读灯_n.png"),
-        "name": "左后阅读灯_n",
-        "includes": [42250],
+        "name": "42250",
     },
-    "右后阅读灯_n": {
+    "42251": {
         "commandIcon": require("./white/右后阅读灯_n.png"),
         "conditionIcon": require("./black/右后阅读灯_n.png"),
-        "name": "右后阅读灯_n",
-        "includes": [42251],
+        "name": "42251",
     },
-    "氛围灯开关_n": {
+    "42252": {
         "commandIcon": require("./white/氛围灯开关_n.png"),
         "conditionIcon": require("./black/氛围灯开关_n.png"),
-        "name": "氛围灯开关_n",
-        "includes": [42252],
+        "name": "42252",
     },
-    "氛围灯模式_n": {
+    "42254": {
         "commandIcon": require("./white/氛围灯模式_n.png"),
         "conditionIcon": require("./black/氛围灯模式_n.png"),
-        "name": "氛围灯模式_n",
-        "includes": [42254, 42255],
+        "name": "42254",
     },
-    "氛围灯颜色_n": {
+    "42255": {
+        "commandIcon": require("./white/氛围灯模式_n.png"),
+        "conditionIcon": require("./black/氛围灯模式_n.png"),
+        "name": "42255",
+    },
+    "42256": {
         "commandIcon": require("./white/氛围灯颜色_n.png"),
         "conditionIcon": require("./black/氛围灯颜色_n.png"),
-        "name": "氛围灯颜色_n",
-        "includes": [42256],
+        "name": "42256",
     },
-    "氛围灯亮度_n": {
+    "42257": {
         "commandIcon": require("./white/氛围灯亮度_n.png"),
         "conditionIcon": require("./black/氛围灯亮度_n.png"),
-        "name": "氛围灯亮度_n",
-        "includes": [42257],
+        "name": "42257",
     },
-    "氛围灯色域_n": {
+    "42258": {
         "commandIcon": require("./white/氛围灯色域_n.png"),
         "conditionIcon": require("./black/氛围灯色域_n.png"),
-        "name": "氛围灯色域_n",
-        "includes": [42258],
+        "name": "42258",
     },
-    "屏幕亮度_n": {
+    "45057": {
         "commandIcon": require("./white/屏幕亮度_n.png"),
         "conditionIcon": require("./black/屏幕亮度_n.png"),
-        "name": "屏幕亮度_n",
-        "includes": [45057],
+        "name": "45057",
     },
-    "屏幕清洁模式_n": {
+    "45058": {
         "commandIcon": require("./white/屏幕清洁模式_n.png"),
         "conditionIcon": require("./black/屏幕清洁模式_n.png"),
-        "name": "屏幕清洁模式_n",
-        "includes": [45058],
+        "name": "45058",
     },
-    "语言_n": {
-        "commandIcon": require("./white/语言_n.png"),
-        "conditionIcon": require("./black/语言_n.png"),
-        "name": "语言_n",
-        "includes": [45059],
-    },
-    "媒体音量_n": {
-        "commandIcon": require("./white/媒体音量_n.png"),
-        "conditionIcon": require("./black/媒体音量_n.png"),
-        "name": "媒体音量_n",
-        "includes": [42500, 64003],
-    },
-    "系统音量_n": {
-        "commandIcon": require("./white/系统音量_n.png"),
-        "conditionIcon": require("./black/系统音量_n.png"),
-        "name": "系统音量_n",
-        "includes": [42501],
-    },
-    "声场位置_n": {
-        "commandIcon": require("./white/声场位置_n.png"),
-        "conditionIcon": require("./black/声场位置_n.png"),
-        "name": "声场位置_n",
-        "includes": [42502],
-    },
-    "发动机声浪_n": {
-        "commandIcon": require("./white/发动机声浪_n.png"),
-        "conditionIcon": require("./black/发动机声浪_n.png"),
-        "name": "发动机声浪_n",
-        "includes": [42503],
-    },
-    "蓝牙电话_n": {
-        "commandIcon": require("./white/蓝牙电话_n.png"),
-        "conditionIcon": require("./black/蓝牙电话_n.png"),
-        "name": "蓝牙电话_n",
-        "includes": [42504],
-    },
-    "无线充电_n": {
-        "commandIcon": require("./white/无线充电_n.png"),
-        "conditionIcon": require("./black/无线充电_n.png"),
-        "name": "无线充电_n",
-        "includes": [42505],
-    },
-    "隐私模式_n": {
-        "commandIcon": require("./white/隐私模式_n.png"),
-        "conditionIcon": require("./black/隐私模式_n.png"),
-        "name": "隐私模式_n",
-        "includes": [42506],
-    },
-    "开始导航_n": {
-        "commandIcon": require("./white/开始导航_n.png"),
-        "conditionIcon": require("./black/开始导航_n.png"),
-        "name": "开始导航_n",
-        "includes": [41201],
-    },
-    "位置检索_n": {
-        "commandIcon": require("./white/位置检索_n.png"),
-        "conditionIcon": require("./black/位置检索_n.png"),
-        "name": "位置检索_n",
-        "includes": [41202],
-    },
-    "导航目的地_n": {
-        "commandIcon": require("./white/导航目的地_n.png"),
-        "conditionIcon": require("./black/导航目的地_n.png"),
-        "name": "导航目的地_n",
-        "includes": [41203, 61957],
-    },
-    "爱趣听_n": {
-        "commandIcon": require("./white/爱趣听_n.png"),
-        "conditionIcon": require("./black/爱趣听_n.png"),
-        "name": "爱趣听_n",
-        "includes": [42757, 42758, 42773],
-    },
-    "云听_n": {
-        "commandIcon": require("./white/云听_n.png"),
-        "conditionIcon": require("./black/云听_n.png"),
-        "name": "云听_n",
-        "includes": [42759, 42760, 42761, 42762, 42763],
-    },
-    "游戏_n": {
-        "commandIcon": require("./white/游戏_n.png"),
-        "conditionIcon": require("./black/游戏_n.png"),
-        "name": "游戏_n",
-        "includes": [42764, 42765],
-    },
-    "雷石ktv_n": {
-        "commandIcon": require("./white/雷石ktv_n.png"),
-        "conditionIcon": require("./black/雷石ktv_n.png"),
-        "name": "雷石ktv_n",
-        "includes": [42766],
-    },
-    "摄像头切换_n": {
-        "commandIcon": require("./white/摄像头切换_n.png"),
-        "conditionIcon": require("./black/摄像头切换_n.png"),
-        "name": "摄像头切换_n",
-        "includes": [42767],
-    },
-    "照片拍摄_n": {
-        "commandIcon": require("./white/照片拍摄_n.png"),
-        "conditionIcon": require("./black/照片拍摄_n.png"),
-        "name": "照片拍摄_n",
-        "includes": [42768],
-    },
-    "视频拍摄_n": {
-        "commandIcon": require("./white/视频拍摄_n.png"),
-        "conditionIcon": require("./black/视频拍摄_n.png"),
-        "name": "视频拍摄_n",
-        "includes": [42769],
-    },
-    "相册_n": {
-        "commandIcon": require("./white/相册_n.png"),
-        "conditionIcon": require("./black/相册_n.png"),
-        "name": "相册_n",
-        "includes": [42770],
-    },
-    "日程_n": {
-        "commandIcon": require("./white/日程_n.png"),
-        "conditionIcon": require("./black/日程_n.png"),
-        "name": "日程_n",
-        "includes": [42771],
-    },
-    "播报天气_n": {
-        "commandIcon": require("./white/播报天气_n.png"),
-        "conditionIcon": require("./black/播报天气_n.png"),
-        "name": "播报天气_n",
-        "includes": [42772],
-    },
-    "语音播报_n": {
-        "commandIcon": require("./white/语音播报_n.png"),
-        "conditionIcon": require("./black/语音播报_n.png"),
-        "name": "语音播报_n",
-        "includes": [43009],
-    },
-    "智能助手动作_n": {
-        "commandIcon": require("./white/智能助手动作_n.png"),
-        "conditionIcon": require("./black/智能助手动作_n.png"),
-        "name": "智能助手动作_n",
-        "includes": [43010],
-    },
-    "香氛开关_n": {
-        "commandIcon": require("./white/香氛开关_n.png"),
-        "conditionIcon": require("./black/香氛开关_n.png"),
-        "name": "香氛开关_n",
-        "includes": [43265],
-    },
-    "香氛香型调节_n": {
-        "commandIcon": require("./white/香氛香型调节_n.png"),
-        "conditionIcon": require("./black/香氛香型调节_n.png"),
-        "name": "香氛香型调节_n",
-        "includes": [43266],
-    },
-    "香氛浓度调节_n": {
-        "commandIcon": require("./white/香氛浓度调节_n.png"),
-        "conditionIcon": require("./black/香氛浓度调节_n.png"),
-        "name": "香氛浓度调节_n",
-        "includes": [43267],
-    },
-    "黑夜_n": {
-        "commandIcon": require("./white/黑夜_n.png"),
-        "conditionIcon": require("./black/黑夜_n.png"),
-        "name": "黑夜_n",
-        "includes": [61441],
-    },
-    "节日_n": {
-        "commandIcon": require("./white/节日_n.png"),
-        "conditionIcon": require("./black/节日_n.png"),
-        "name": "节日_n",
-        "includes": [61445],
-    },
-    "节气_n": {
-        "commandIcon": require("./white/节气_n.png"),
-        "conditionIcon": require("./black/节气_n.png"),
-        "name": "节气_n",
-        "includes": [61446],
-    },
-    "车外温度_n": {
-        "commandIcon": require("./white/车外温度_n.png"),
-        "conditionIcon": require("./black/车外温度_n.png"),
-        "name": "车外温度_n",
-        "includes": [61697, 61698],
-    },
-    "车内温度_n": {
-        "commandIcon": require("./white/车内温度_n.png"),
-        "conditionIcon": require("./black/车内温度_n.png"),
-        "name": "车内温度_n",
-        "includes": [61699, 61700],
-    },
-    "空气质量_n": {
-        "commandIcon": require("./white/空气质量_n.png"),
-        "conditionIcon": require("./black/空气质量_n.png"),
-        "name": "空气质量_n",
-        "includes": [61701],
-    },
-    "天气_n": {
-        "commandIcon": require("./white/天气_n.png"),
-        "conditionIcon": require("./black/天气_n.png"),
-        "name": "天气_n",
-        "includes": [61702],
-    },
-    "天气预警_n": {
-        "commandIcon": require("./white/天气预警_n.png"),
-        "conditionIcon": require("./black/天气预警_n.png"),
-        "name": "天气预警_n",
-        "includes": [61703],
-    },
-    "到达剩余时间_n": {
-        "commandIcon": require("./white/到达剩余时间_n.png"),
-        "conditionIcon": require("./black/到达剩余时间_n.png"),
-        "name": "到达剩余时间_n",
-        "includes": [61955],
-    },
-    "到达剩余距离_n": {
-        "commandIcon": require("./white/到达剩余距离_n.png"),
-        "conditionIcon": require("./black/到达剩余距离_n.png"),
-        "name": "到达剩余距离_n",
-        "includes": [61956],
-    },
-    "导航状态_n": {
-        "commandIcon": require("./white/导航状态_n.png"),
-        "conditionIcon": require("./black/导航状态_n.png"),
-        "name": "导航状态_n",
-        "includes": [61958],
-    },
-    "档位_n": {
-        "commandIcon": require("./white/档位_n.png"),
-        "conditionIcon": require("./black/档位_n.png"),
-        "name": "档位_n",
-        "includes": [62209],
-    },
-    "车速_n": {
-        "commandIcon": require("./white/车速_n.png"),
-        "conditionIcon": require("./black/车速_n.png"),
-        "name": "车速_n",
-        "includes": [62210, 62211],
-    },
-    "胎压_n": {
-        "commandIcon": require("./white/胎压_n.png"),
-        "conditionIcon": require("./black/胎压_n.png"),
-        "name": "胎压_n",
-        "includes": [62212],
-    },
-    "燃油续航_n": {
-        "commandIcon": require("./white/燃油续航_n.png"),
-        "conditionIcon": require("./black/燃油续航_n.png"),
-        "name": "燃油续航_n",
-        "includes": [62214],
-    },
-    "纯电续航_n": {
-        "commandIcon": require("./white/纯电续航_n.png"),
-        "conditionIcon": require("./black/纯电续航_n.png"),
-        "name": "纯电续航_n",
-        "includes": [62213],
-    },
-    "剩余油量_n": {
-        "commandIcon": require("./white/剩余油量_n.png"),
-        "conditionIcon": require("./black/剩余油量_n.png"),
-        "name": "剩余油量_n",
-        "includes": [62215],
-    },
-    "剩余电量_n": {
-        "commandIcon": require("./white/剩余电量_n.png"),
-        "conditionIcon": require("./black/剩余电量_n.png"),
-        "name": "剩余电量_n",
-        "includes": [62216],
-    },
-    "充电状态_n": {
-        "commandIcon": require("./white/充电状态_n.png"),
-        "conditionIcon": require("./black/充电状态_n.png"),
-        "name": "充电状态_n",
-        "includes": [62218],
-    },
-    "主驾车门开关状态_n": {
-        "commandIcon": require("./white/主驾车门开关状态_n.png"),
-        "conditionIcon": require("./black/主驾车门开关状态_n.png"),
-        "name": "主驾车门开关状态_n",
-        "includes": [62721],
-    },
-    "副驾车门开关状态_n": {
-        "commandIcon": require("./white/副驾车门开关状态_n.png"),
-        "conditionIcon": require("./black/副驾车门开关状态_n.png"),
-        "name": "副驾车门开关状态_n",
-        "includes": [62722],
-    },
-    "左后车门开关状态_n": {
-        "commandIcon": require("./white/左后车门开关状态_n.png"),
-        "conditionIcon": require("./black/左后车门开关状态_n.png"),
-        "name": "左后车门开关状态_n",
-        "includes": [62723],
-    },
-    "右后车门开关状态_n": {
-        "commandIcon": require("./white/右后车门开关状态_n.png"),
-        "conditionIcon": require("./black/右后车门开关状态_n.png"),
-        "name": "右后车门开关状态_n",
-        "includes": [62724],
-    },
-    "后备箱_n": {
-        "commandIcon": require("./white/后备箱_n.png"),
-        "conditionIcon": require("./black/后备箱_n.png"),
-        "name": "后备箱_n",
-        "includes": [62725],
-    },
-    "主驾乘坐状态_n": {
-        "commandIcon": require("./white/主驾乘坐状态_n.png"),
-        "conditionIcon": require("./black/主驾乘坐状态_n.png"),
-        "name": "主驾乘坐状态_n",
-        "includes": [63233],
-    },
-    "副驾乘坐状态_n": {
-        "commandIcon": require("./white/副驾乘坐状态_n.png"),
-        "conditionIcon": require("./black/副驾乘坐状态_n.png"),
-        "name": "副驾乘坐状态_n",
-        "includes": [63234],
-    },
-    "第二排左座乘坐状态_n": {
-        "commandIcon": require("./white/第二排左座乘坐状态_n.png"),
-        "conditionIcon": require("./black/第二排左座乘坐状态_n.png"),
-        "name": "第二排左座乘坐状态_n",
-        "includes": [63235],
-    },
-    "第二排右座乘坐状态_n": {
-        "commandIcon": require("./white/第二排右座乘坐状态_n.png"),
-        "conditionIcon": require("./black/第二排右座乘坐状态_n.png"),
-        "name": "第二排右座乘坐状态_n",
-        "includes": [63236],
-    },
-    "第二排中间乘坐状态_n": {
-        "commandIcon": require("./white/第二排中间乘坐状态_n.png"),
-        "conditionIcon": require("./black/第二排中间乘坐状态_n.png"),
-        "name": "第二排中间乘坐状态_n",
-        "includes": [63237],
-    },
-    "主驾安全带状态_n": {
-        "commandIcon": require("./white/主驾安全带状态_n.png"),
-        "conditionIcon": require("./black/主驾安全带状态_n.png"),
-        "name": "主驾安全带状态_n",
-        "includes": [63489],
-    },
-    "副驾安全带状态_n": {
-        "commandIcon": require("./white/副驾安全带状态_n.png"),
-        "conditionIcon": require("./black/副驾安全带状态_n.png"),
-        "name": "副驾安全带状态_n",
-        "includes": [63490],
-    },
-    "第二排左座安全带状态_n": {
-        "commandIcon": require("./white/第二排左座安全带状态_n.png"),
-        "conditionIcon": require("./black/第二排左座安全带状态_n.png"),
-        "name": "第二排左座安全带状态_n",
-        "includes": [63491],
-    },
-    "第二排右座安全带状态_n": {
-        "commandIcon": require("./white/第二排右座安全带状态_n.png"),
-        "conditionIcon": require("./black/第二排右座安全带状态_n.png"),
-        "name": "第二排右座安全带状态_n",
-        "includes": [63492],
-    },
-    "第二排中间座安全带状态_n": {
-        "commandIcon": require("./white/第二排中间座安全带状态_n.png"),
-        "conditionIcon": require("./black/第二排中间座安全带状态_n.png"),
-        "name": "第二排中间座安全带状态_n",
-        "includes": [63493],
-    },
-    "主驾年龄_n": {
-        "commandIcon": require("./white/主驾年龄_n.png"),
-        "conditionIcon": require("./black/主驾年龄_n.png"),
-        "name": "主驾年龄_n",
-        "includes": [63745],
-    },
-    "副驾年龄_n": {
-        "commandIcon": require("./white/副驾年龄_n.png"),
-        "conditionIcon": require("./black/副驾年龄_n.png"),
-        "name": "副驾年龄_n",
-        "includes": [63746],
-    },
-    "后左乘员年龄_n": {
-        "commandIcon": require("./white/后左乘员年龄_n.png"),
-        "conditionIcon": require("./black/后左乘员年龄_n.png"),
-        "name": "后左乘员年龄_n",
-        "includes": [63747],
-    },
-    "后右乘员年龄_n": {
-        "commandIcon": require("./white/后右乘员年龄_n.png"),
-        "conditionIcon": require("./black/后右乘员年龄_n.png"),
-        "name": "后右乘员年龄_n",
-        "includes": [63748],
-    },
-    "后中乘员年龄_n": {
-        "commandIcon": require("./white/后中乘员年龄_n.png"),
-        "conditionIcon": require("./black/后中乘员年龄_n.png"),
-        "name": "后中乘员年龄_n",
-        "includes": [63749],
-    },
-    "主驾情绪_n": {
-        "commandIcon": require("./white/主驾情绪_n.png"),
-        "conditionIcon": require("./black/主驾情绪_n.png"),
-        "name": "主驾情绪_n",
-        "includes": [63750],
-    },
-    "副驾情绪_n": {
-        "commandIcon": require("./white/副驾情绪_n.png"),
-        "conditionIcon": require("./black/副驾情绪_n.png"),
-        "name": "副驾情绪_n",
-        "includes": [63751],
-    },
-    "后左乘员情绪_n": {
-        "commandIcon": require("./white/后左乘员情绪_n.png"),
-        "conditionIcon": require("./black/后左乘员情绪_n.png"),
-        "name": "后左乘员情绪_n",
-        "includes": [63752],
-    },
-    "后右乘员情绪_n": {
-        "commandIcon": require("./white/后右乘员情绪_n.png"),
-        "conditionIcon": require("./black/后右乘员情绪_n.png"),
-        "name": "后右乘员情绪_n",
-        "includes": [63753],
-    },
-    "后中乘员情绪_n": {
-        "commandIcon": require("./white/后中乘员情绪_n.png"),
-        "conditionIcon": require("./black/后中乘员情绪_n.png"),
-        "name": "后中乘员情绪_n",
-        "includes": [63754],
-    },
-    "蓝牙连接_n": {
-        "commandIcon": require("./white/蓝牙连接_n.png"),
-        "conditionIcon": require("./black/蓝牙连接_n.png"),
-        "name": "蓝牙连接_n",
-        "includes": [64001],
-    },
-    "KTV播放状态_n": {
-        "commandIcon": require("./white/KTV播放状态_n.png"),
-        "conditionIcon": require("./black/KTV播放状态_n.png"),
-        "name": "KTV播放状态_n",
-        "includes": [64002],
-    },
-    "ktv话筒连接_n": {
-        "commandIcon": require("./white/ktv话筒连接_n.png"),
-        "conditionIcon": require("./black/ktv话筒连接_n.png"),
-        "name": "ktv话筒连接_n",
-        "includes": [64004],
-    },
-    "icon_condition_RainfallIntensity": {
-        "commandIcon": require("./white/icon_condition_RainfallIntensity.png"),
-        "conditionIcon": require("./black/icon_condition_RainfallIntensity.png"),
-        "name": "icon_condition_RainfallIntensity",
-        "includes": [61704],
-    },
-    "icon_condition_Road": {
-        "commandIcon": require("./white/icon_condition_Road.png"),
-        "conditionIcon": require("./black/icon_condition_Road.png"),
-        "name": "icon_condition_Road",
-        "includes": [61959],
-    },
-    "icon_condition_WirelessChargingStatus": {
-        "commandIcon": require("./white/icon_condition_WirelessChargingStatus.png"),
-        "conditionIcon": require("./black/icon_condition_WirelessChargingStatus.png"),
-        "name": "icon_condition_WirelessChargingStatus",
-        "includes": [62219],
-    },
-    "icon_condition_Gender": {
-        "commandIcon": require("./white/icon_condition_Gender.png"),
-        "conditionIcon": require("./black/icon_condition_Gender.png"),
-        "name": "icon_condition_Gender",
-        "includes": [63755],
-    },
-    "icon_condition_Tired": {
-        "commandIcon": require("./white/icon_condition_Tired.png"),
-        "conditionIcon": require("./black/icon_condition_Tired.png"),
-        "name": "icon_condition_Tired",
-        "includes": [63756],
-    },
-    "icon_condition_Distraction": {
-        "commandIcon": require("./white/icon_condition_Distraction.png"),
-        "conditionIcon": require("./black/icon_condition_Distraction.png"),
-        "name": "icon_condition_Distraction",
-        "includes": [63757],
-    },
-    "icon_condition_ClothingColor": {
-        "commandIcon": require("./white/icon_condition_ClothingColor.png"),
-        "conditionIcon": require("./black/icon_condition_ClothingColor.png"),
-        "name": "icon_condition_ClothingColor",
-        "includes": [63758],
-    },
-    "icon_condition_PointOfInterest": {
-        "commandIcon": require("./white/icon_condition_PointOfInterest.png"),
-        "conditionIcon": require("./black/icon_condition_PointOfInterest.png"),
-        "name": "icon_condition_PointOfInterest",
-        "includes": [41210],
-    },
-    "icon_action_TemperatureSynchronization": {
-        "commandIcon": require("./white/icon_action_TemperatureSynchronization.png"),
-        "conditionIcon": require("./black/icon_action_TemperatureSynchronization.png"),
-        "name": "icon_action_TemperatureSynchronization",
-        "includes": [41245],
-    },
-    "icon_action_FrontDefrosting": {
-        "commandIcon": require("./white/icon_action_FrontDefrosting.png"),
-        "conditionIcon": require("./black/icon_action_FrontDefrosting.png"),
-        "name": "icon_action_FrontDefrosting",
-        "includes": [41248],
-    },
-    "icon_action_HAVCWorkingMode": {
-        "commandIcon": require("./white/icon_action_HAVCWorkingMode.png"),
-        "conditionIcon": require("./black/icon_action_HAVCWorkingMode.png"),
-        "name": "icon_action_HAVCWorkingMode",
-        "includes": [41249],
-    },
-    "icon_action_NegativeIon": {
-        "commandIcon": require("./white/icon_action_NegativeIon.png"),
-        "conditionIcon": require("./black/icon_action_NegativeIon.png"),
-        "name": "icon_action_NegativeIon",
-        "includes": [41250],
-    },
-    "icon_action_ReleaseVentSwitch": {
-        "commandIcon": require("./white/icon_action_ReleaseVentSwitch.png"),
-        "conditionIcon": require("./black/icon_action_ReleaseVentSwitch.png"),
-        "name": "icon_action_ReleaseVentSwitch",
-        "includes": [41251, 45065],
-    },
-    "icon_action_HighBeam": {
-        "commandIcon": require("./white/icon_action_HighBeam.png"),
-        "conditionIcon": require("./black/icon_action_HighBeam.png"),
-        "name": "icon_action_HighBeam",
-        "includes": [42259],
-    },
-    "icon_action_MidToneControl": {
-        "commandIcon": require("./white/icon_action_MidToneControl.png"),
-        "conditionIcon": require("./black/icon_action_MidToneControl.png"),
-        "name": "icon_action_MidToneControl",
-        "includes": [42529],
-    },
-    "icon_action_ScreenSwitch": {
+    "45059": {
         "commandIcon": require("./white/icon_action_ScreenSwitch.png"),
         "conditionIcon": require("./black/icon_action_ScreenSwitch.png"),
-        "name": "icon_action_ScreenSwitch",
-        "includes": [45059],
+        "name": "45059",
     },
-    "icon_action_DryDeodorization": {
-        "commandIcon": require("./white/icon_action_DryDeodorization.png"),
-        "conditionIcon": require("./black/icon_action_DryDeodorization.png"),
-        "name": "icon_action_DryDeodorization",
-        "includes": [45060],
+    "42500": {
+        "commandIcon": require("./white/媒体音量_n.png"),
+        "conditionIcon": require("./black/媒体音量_n.png"),
+        "name": "42500",
     },
-    "icon_action_ElectricTable": {
-        "commandIcon": require("./white/icon_action_ElectricTable.png"),
-        "conditionIcon": require("./black/icon_action_ElectricTable.png"),
-        "name": "icon_action_ElectricTable",
-        "includes": [45061],
+    "42501": {
+        "commandIcon": require("./white/系统音量_n.png"),
+        "conditionIcon": require("./black/系统音量_n.png"),
+        "name": "42501",
     },
-    "icon_action_DisableRainHanger": {
-        "commandIcon": require("./white/icon_action_DisableRainHanger.png"),
-        "conditionIcon": require("./black/icon_action_DisableRainHanger.png"),
-        "name": "icon_action_DisableRainHanger",
-        "includes": [45062],
+    "42502": {
+        "commandIcon": require("./white/声场位置_n.png"),
+        "conditionIcon": require("./black/声场位置_n.png"),
+        "name": "42502",
     },
-    "icon_action_ScreenSliding": {
-        "commandIcon": require("./white/icon_action_ScreenSliding.png"),
-        "conditionIcon": require("./black/icon_action_ScreenSliding.png"),
-        "name": "icon_action_ScreenSliding",
-        "includes": [45063],
+    "42503": {
+        "commandIcon": require("./white/发动机声浪_n.png"),
+        "conditionIcon": require("./black/发动机声浪_n.png"),
+        "name": "42503",
     },
-    "icon_action_ScreenSlidingDisabled": {
-        "commandIcon": require("./white/icon_action_ScreenSlidingDisabled.png"),
-        "conditionIcon": require("./black/icon_action_ScreenSlidingDisabled.png"),
-        "name": "icon_action_ScreenSlidingDisabled",
-        "includes": [45064],
+    "42504": {
+        "commandIcon": require("./white/蓝牙电话_n.png"),
+        "conditionIcon": require("./black/蓝牙电话_n.png"),
+        "name": "42504",
     },
-    "icon_action_EyeAwakening": {
-        "commandIcon": require("./white/icon_action_EyeAwakening.png"),
-        "conditionIcon": require("./black/icon_action_EyeAwakening.png"),
-        "name": "icon_action_EyeAwakening",
-        "includes": [45066],
+    "42505": {
+        "commandIcon": require("./white/无线充电_n.png"),
+        "conditionIcon": require("./black/无线充电_n.png"),
+        "name": "42505",
     },
-    "icon_action_PlaybackMode": {
-        "commandIcon": require("./white/icon_action_PlaybackMode.png"),
-        "conditionIcon": require("./black/icon_action_PlaybackMode.png"),
-        "name": "icon_action_PlaybackMode",
-        "includes": [42774],
+    "42506": {
+        "commandIcon": require("./white/隐私模式_n.png"),
+        "conditionIcon": require("./black/隐私模式_n.png"),
+        "name": "42506",
     },
-    "icon_action_PreviousSong": {
-        "commandIcon": require("./white/icon_action_PreviousSong.png"),
-        "conditionIcon": require("./black/icon_action_PreviousSong.png"),
-        "name": "icon_action_PreviousSong",
-        "includes": [42775],
+    "41201": {
+        "commandIcon": require("./white/开始导航_n.png"),
+        "conditionIcon": require("./black/开始导航_n.png"),
+        "name": "41201",
     },
-    "icon_action_NextSong": {
-        "commandIcon": require("./white/icon_action_NextSong.png"),
-        "conditionIcon": require("./black/icon_action_NextSong.png"),
-        "name": "icon_action_NextSong",
-        "includes": [42777],
+    "41202": {
+        "commandIcon": require("./white/位置检索_n.png"),
+        "conditionIcon": require("./black/位置检索_n.png"),
+        "name": "41202",
     },
-    "icon_action_StartPlaying": {
-        "commandIcon": require("./white/icon_action_StartPlaying.png"),
-        "conditionIcon": require("./black/icon_action_StartPlaying.png"),
-        "name": "icon_action_StartPlaying",
-        "includes": [42776],
+    "41203": {
+        "commandIcon": require("./white/导航目的地_n.png"),
+        "conditionIcon": require("./black/导航目的地_n.png"),
+        "name": "41203",
     },
-    "icon_action_Photo": {
+    "42757": {
+        "commandIcon": require("./white/爱趣听_n.png"),
+        "conditionIcon": require("./black/爱趣听_n.png"),
+        "name": "42757",
+    },
+    "42758": {
+        "commandIcon": require("./white/爱趣听_n.png"),
+        "conditionIcon": require("./black/爱趣听_n.png"),
+        "name": "42758",
+    },
+    "42759": {
+        "commandIcon": require("./white/云听_n.png"),
+        "conditionIcon": require("./black/云听_n.png"),
+        "name": "42759",
+    },
+    "42760": {
+        "commandIcon": require("./white/云听_n.png"),
+        "conditionIcon": require("./black/云听_n.png"),
+        "name": "42760",
+    },
+    "42761": {
+        "commandIcon": require("./white/云听_n.png"),
+        "conditionIcon": require("./black/云听_n.png"),
+        "name": "42761",
+    },
+    "42762": {
+        "commandIcon": require("./white/云听_n.png"),
+        "conditionIcon": require("./black/云听_n.png"),
+        "name": "42762",
+    },
+    "42763": {
+        "commandIcon": require("./white/云听_n.png"),
+        "conditionIcon": require("./black/云听_n.png"),
+        "name": "42763",
+    },
+    "42764": {
+        "commandIcon": require("./white/游戏_n.png"),
+        "conditionIcon": require("./black/游戏_n.png"),
+        "name": "42764",
+    },
+    "42765": {
+        "commandIcon": require("./white/游戏_n.png"),
+        "conditionIcon": require("./black/游戏_n.png"),
+        "name": "42765",
+    },
+    "42766": {
+        "commandIcon": require("./white/雷石ktv_n.png"),
+        "conditionIcon": require("./black/雷石ktv_n.png"),
+        "name": "42766",
+    },
+    "42773": {
+        "commandIcon": require("./white/爱趣听_n.png"),
+        "conditionIcon": require("./black/爱趣听_n.png"),
+        "name": "42773",
+    },
+    "42767": {
+        "commandIcon": require("./white/摄像头切换_n.png"),
+        "conditionIcon": require("./black/摄像头切换_n.png"),
+        "name": "42767",
+    },
+    "42768": {
         "commandIcon": require("./white/icon_action_Photo.png"),
         "conditionIcon": require("./black/icon_action_Photo.png"),
-        "name": "icon_action_Photo",
-        "includes": [42768],
+        "name": "42768",
     },
-    "icon_action_PictureRecording": {
+    "42769": {
         "commandIcon": require("./white/icon_action_PictureRecording.png"),
         "conditionIcon": require("./black/icon_action_PictureRecording.png"),
-        "name": "icon_action_PictureRecording",
-        "includes": [42769],
+        "name": "42769",
     },
-    "icon_action_FragranceRunningTime": {
+    "42770": {
+        "commandIcon": require("./white/相册_n.png"),
+        "conditionIcon": require("./black/相册_n.png"),
+        "name": "42770",
+    },
+    "42771": {
+        "commandIcon": require("./white/日程_n.png"),
+        "conditionIcon": require("./black/日程_n.png"),
+        "name": "42771",
+    },
+    "42772": {
+        "commandIcon": require("./white/播报天气_n.png"),
+        "conditionIcon": require("./black/播报天气_n.png"),
+        "name": "42772",
+    },
+    "43009": {
+        "commandIcon": require("./white/语音播报_n.png"),
+        "conditionIcon": require("./black/语音播报_n.png"),
+        "name": "43009",
+    },
+    "43010": {
+        "commandIcon": require("./white/智能助手动作_n.png"),
+        "conditionIcon": require("./black/智能助手动作_n.png"),
+        "name": "43010",
+    },
+    "43265": {
+        "commandIcon": require("./white/香氛开关_n.png"),
+        "conditionIcon": require("./black/香氛开关_n.png"),
+        "name": "43265",
+    },
+    "43266": {
+        "commandIcon": require("./white/香氛香型调节_n.png"),
+        "conditionIcon": require("./black/香氛香型调节_n.png"),
+        "name": "43266",
+    },
+    "43267": {
+        "commandIcon": require("./white/香氛浓度调节_n.png"),
+        "conditionIcon": require("./black/香氛浓度调节_n.png"),
+        "name": "43267",
+    },
+    "61441": {
+        "commandIcon": require("./white/黑夜_n.png"),
+        "conditionIcon": require("./black/黑夜_n.png"),
+        "name": "61441",
+    },
+    "61445": {
+        "commandIcon": require("./white/节日_n.png"),
+        "conditionIcon": require("./black/节日_n.png"),
+        "name": "61445",
+    },
+    "61446": {
+        "commandIcon": require("./white/节气_n.png"),
+        "conditionIcon": require("./black/节气_n.png"),
+        "name": "61446",
+    },
+    "61697": {
+        "commandIcon": require("./white/车外温度_n.png"),
+        "conditionIcon": require("./black/车外温度_n.png"),
+        "name": "61697",
+    },
+    "61698": {
+        "commandIcon": require("./white/车外温度_n.png"),
+        "conditionIcon": require("./black/车外温度_n.png"),
+        "name": "61698",
+    },
+    "61699": {
+        "commandIcon": require("./white/车内温度_n.png"),
+        "conditionIcon": require("./black/车内温度_n.png"),
+        "name": "61699",
+    },
+    "61700": {
+        "commandIcon": require("./white/车内温度_n.png"),
+        "conditionIcon": require("./black/车内温度_n.png"),
+        "name": "61700",
+    },
+    "61701": {
+        "commandIcon": require("./white/空气质量_n.png"),
+        "conditionIcon": require("./black/空气质量_n.png"),
+        "name": "61701",
+    },
+    "61702": {
+        "commandIcon": require("./white/天气_n.png"),
+        "conditionIcon": require("./black/天气_n.png"),
+        "name": "61702",
+    },
+    "61703": {
+        "commandIcon": require("./white/天气预警_n.png"),
+        "conditionIcon": require("./black/天气预警_n.png"),
+        "name": "61703",
+    },
+    "61955": {
+        "commandIcon": require("./white/到达剩余时间_n.png"),
+        "conditionIcon": require("./black/到达剩余时间_n.png"),
+        "name": "61955",
+    },
+    "61956": {
+        "commandIcon": require("./white/到达剩余距离_n.png"),
+        "conditionIcon": require("./black/到达剩余距离_n.png"),
+        "name": "61956",
+    },
+    "61957": {
+        "commandIcon": require("./white/导航目的地_n.png"),
+        "conditionIcon": require("./black/导航目的地_n.png"),
+        "name": "61957",
+    },
+    "61958": {
+        "commandIcon": require("./white/导航状态_n.png"),
+        "conditionIcon": require("./black/导航状态_n.png"),
+        "name": "61958",
+    },
+    "62209": {
+        "commandIcon": require("./white/档位_n.png"),
+        "conditionIcon": require("./black/档位_n.png"),
+        "name": "62209",
+    },
+    "62210": {
+        "commandIcon": require("./white/车速_n.png"),
+        "conditionIcon": require("./black/车速_n.png"),
+        "name": "62210",
+    },
+    "62211": {
+        "commandIcon": require("./white/车速_n.png"),
+        "conditionIcon": require("./black/车速_n.png"),
+        "name": "62211",
+    },
+    "62212": {
+        "commandIcon": require("./white/胎压_n.png"),
+        "conditionIcon": require("./black/胎压_n.png"),
+        "name": "62212",
+    },
+    "62214": {
+        "commandIcon": require("./white/燃油续航_n.png"),
+        "conditionIcon": require("./black/燃油续航_n.png"),
+        "name": "62214",
+    },
+    "62213": {
+        "commandIcon": require("./white/纯电续航_n.png"),
+        "conditionIcon": require("./black/纯电续航_n.png"),
+        "name": "62213",
+    },
+    "62215": {
+        "commandIcon": require("./white/剩余油量_n.png"),
+        "conditionIcon": require("./black/剩余油量_n.png"),
+        "name": "62215",
+    },
+    "62216": {
+        "commandIcon": require("./white/剩余电量_n.png"),
+        "conditionIcon": require("./black/剩余电量_n.png"),
+        "name": "62216",
+    },
+    "62218": {
+        "commandIcon": require("./white/充电状态_n.png"),
+        "conditionIcon": require("./black/充电状态_n.png"),
+        "name": "62218",
+    },
+    "62465": {
+        "commandIcon": require("./white/主驾空调温度_n.png"),
+        "conditionIcon": require("./black/主驾空调温度_n.png"),
+        "name": "62465",
+    },
+    "62466": {
+        "commandIcon": require("./white/主驾空调温度_n.png"),
+        "conditionIcon": require("./black/主驾空调温度_n.png"),
+        "name": "62466",
+    },
+    "62467": {
+        "commandIcon": require("./white/主驾驶风量_n.png"),
+        "conditionIcon": require("./black/主驾驶风量_n.png"),
+        "name": "62467",
+    },
+    "62468": {
+        "commandIcon": require("./white/主驾驶风量_n.png"),
+        "conditionIcon": require("./black/主驾驶风量_n.png"),
+        "name": "62468",
+    },
+    "62469": {
+        "commandIcon": require("./white/副驾空调温度_n.png"),
+        "conditionIcon": require("./black/副驾空调温度_n.png"),
+        "name": "62469",
+    },
+    "62470": {
+        "commandIcon": require("./white/副驾空调温度_n.png"),
+        "conditionIcon": require("./black/副驾空调温度_n.png"),
+        "name": "62470",
+    },
+    "62471": {
+        "commandIcon": require("./white/副驾空调风量_n.png"),
+        "conditionIcon": require("./black/副驾空调风量_n.png"),
+        "name": "62471",
+    },
+    "62472": {
+        "commandIcon": require("./white/副驾空调风量_n.png"),
+        "conditionIcon": require("./black/副驾空调风量_n.png"),
+        "name": "62472",
+    },
+    "62473": {
+        "commandIcon": require("./white/后左空调温度调节_n.png"),
+        "conditionIcon": require("./black/后左空调温度调节_n.png"),
+        "name": "62473",
+    },
+    "62474": {
+        "commandIcon": require("./white/后左空调温度调节_n.png"),
+        "conditionIcon": require("./black/后左空调温度调节_n.png"),
+        "name": "62474",
+    },
+    "62475": {
+        "commandIcon": require("./white/后左风量_n.png"),
+        "conditionIcon": require("./black/后左风量_n.png"),
+        "name": "62475",
+    },
+    "62476": {
+        "commandIcon": require("./white/后左风量_n.png"),
+        "conditionIcon": require("./black/后左风量_n.png"),
+        "name": "62476",
+    },
+    "62477": {
+        "commandIcon": require("./white/后右空调温度_n.png"),
+        "conditionIcon": require("./black/后右空调温度_n.png"),
+        "name": "62477",
+    },
+    "62478": {
+        "commandIcon": require("./white/后右空调温度_n.png"),
+        "conditionIcon": require("./black/后右空调温度_n.png"),
+        "name": "62478",
+    },
+    "62479": {
+        "commandIcon": require("./white/后右风量_n.png"),
+        "conditionIcon": require("./black/后右风量_n.png"),
+        "name": "62479",
+    },
+    "62480": {
+        "commandIcon": require("./white/后右风量_n.png"),
+        "conditionIcon": require("./black/后右风量_n.png"),
+        "name": "62480",
+    },
+    "62481": {
+        "commandIcon": require("./white/前排风量_n.png"),
+        "conditionIcon": require("./black/前排风量_n.png"),
+        "name": "62481",
+    },
+    "62482": {
+        "commandIcon": require("./white/前排风量_n.png"),
+        "conditionIcon": require("./black/前排风量_n.png"),
+        "name": "62482",
+    },
+    "62721": {
+        "commandIcon": require("./white/主驾车门开关状态_n.png"),
+        "conditionIcon": require("./black/主驾车门开关状态_n.png"),
+        "name": "62721",
+    },
+    "62722": {
+        "commandIcon": require("./white/副驾车门开关状态_n.png"),
+        "conditionIcon": require("./black/副驾车门开关状态_n.png"),
+        "name": "62722",
+    },
+    "62723": {
+        "commandIcon": require("./white/左后车门开关状态_n.png"),
+        "conditionIcon": require("./black/左后车门开关状态_n.png"),
+        "name": "62723",
+    },
+    "62724": {
+        "commandIcon": require("./white/右后车门开关状态_n.png"),
+        "conditionIcon": require("./black/右后车门开关状态_n.png"),
+        "name": "62724",
+    },
+    "62725": {
+        "commandIcon": require("./white/后备箱_n.png"),
+        "conditionIcon": require("./black/后备箱_n.png"),
+        "name": "62725",
+    },
+    "62726": {
+        "commandIcon": require("./white/门锁控制_n.png"),
+        "conditionIcon": require("./black/门锁控制_n.png"),
+        "name": "62726",
+    },
+    "62727": {
+        "commandIcon": require("./white/儿童锁控制_n.png"),
+        "conditionIcon": require("./black/儿童锁控制_n.png"),
+        "name": "62727",
+    },
+    "62728": {
+        "commandIcon": require("./white/油箱口盖_n.png"),
+        "conditionIcon": require("./black/油箱口盖_n.png"),
+        "name": "62728",
+    },
+    "62729": {
+        "commandIcon": require("./white/充电口盖_n.png"),
+        "conditionIcon": require("./black/充电口盖_n.png"),
+        "name": "62729",
+    },
+    "62977": {
+        "commandIcon": require("./white/主驾车窗_n.png"),
+        "conditionIcon": require("./black/主驾车窗_n.png"),
+        "name": "62977",
+    },
+    "62978": {
+        "commandIcon": require("./white/副驾车窗_n.png"),
+        "conditionIcon": require("./black/副驾车窗_n.png"),
+        "name": "62978",
+    },
+    "62979": {
+        "commandIcon": require("./white/左后车窗_n.png"),
+        "conditionIcon": require("./black/左后车窗_n.png"),
+        "name": "62979",
+    },
+    "62980": {
+        "commandIcon": require("./white/右后车窗_n.png"),
+        "conditionIcon": require("./black/右后车窗_n.png"),
+        "name": "62980",
+    },
+    "62982": {
+        "commandIcon": require("./white/天窗遮阳帘_n.png"),
+        "conditionIcon": require("./black/天窗遮阳帘_n.png"),
+        "name": "62982",
+    },
+    "62983": {
+        "commandIcon": require("./white/天窗遮阳帘_n.png"),
+        "conditionIcon": require("./black/天窗遮阳帘_n.png"),
+        "name": "62983",
+    },
+    "63233": {
+        "commandIcon": require("./white/主驾乘坐状态_n.png"),
+        "conditionIcon": require("./black/主驾乘坐状态_n.png"),
+        "name": "63233",
+    },
+    "63234": {
+        "commandIcon": require("./white/副驾乘坐状态_n.png"),
+        "conditionIcon": require("./black/副驾乘坐状态_n.png"),
+        "name": "63234",
+    },
+    "63235": {
+        "commandIcon": require("./white/第二排左座乘坐状态_n.png"),
+        "conditionIcon": require("./black/第二排左座乘坐状态_n.png"),
+        "name": "63235",
+    },
+    "63236": {
+        "commandIcon": require("./white/第二排右座乘坐状态_n.png"),
+        "conditionIcon": require("./black/第二排右座乘坐状态_n.png"),
+        "name": "63236",
+    },
+    "63237": {
+        "commandIcon": require("./white/第二排中间乘坐状态_n.png"),
+        "conditionIcon": require("./black/第二排中间乘坐状态_n.png"),
+        "name": "63237",
+    },
+    "63489": {
+        "commandIcon": require("./white/主驾安全带状态_n.png"),
+        "conditionIcon": require("./black/主驾安全带状态_n.png"),
+        "name": "63489",
+    },
+    "63490": {
+        "commandIcon": require("./white/副驾安全带状态_n.png"),
+        "conditionIcon": require("./black/副驾安全带状态_n.png"),
+        "name": "63490",
+    },
+    "63491": {
+        "commandIcon": require("./white/第二排左座安全带状态_n.png"),
+        "conditionIcon": require("./black/第二排左座安全带状态_n.png"),
+        "name": "63491",
+    },
+    "63492": {
+        "commandIcon": require("./white/第二排右座安全带状态_n.png"),
+        "conditionIcon": require("./black/第二排右座安全带状态_n.png"),
+        "name": "63492",
+    },
+    "63493": {
+        "commandIcon": require("./white/第二排中间座安全带状态_n.png"),
+        "conditionIcon": require("./black/第二排中间座安全带状态_n.png"),
+        "name": "63493",
+    },
+    "63745": {
+        "commandIcon": require("./white/主驾年龄_n.png"),
+        "conditionIcon": require("./black/主驾年龄_n.png"),
+        "name": "63745",
+    },
+    "63746": {
+        "commandIcon": require("./white/副驾年龄_n.png"),
+        "conditionIcon": require("./black/副驾年龄_n.png"),
+        "name": "63746",
+    },
+    "63747": {
+        "commandIcon": require("./white/后左乘员年龄_n.png"),
+        "conditionIcon": require("./black/后左乘员年龄_n.png"),
+        "name": "63747",
+    },
+    "63748": {
+        "commandIcon": require("./white/后右乘员年龄_n.png"),
+        "conditionIcon": require("./black/后右乘员年龄_n.png"),
+        "name": "63748",
+    },
+    "63749": {
+        "commandIcon": require("./white/后中乘员年龄_n.png"),
+        "conditionIcon": require("./black/后中乘员年龄_n.png"),
+        "name": "63749",
+    },
+    "63750": {
+        "commandIcon": require("./white/主驾情绪_n.png"),
+        "conditionIcon": require("./black/主驾情绪_n.png"),
+        "name": "63750",
+    },
+    "63751": {
+        "commandIcon": require("./white/副驾情绪_n.png"),
+        "conditionIcon": require("./black/副驾情绪_n.png"),
+        "name": "63751",
+    },
+    "63752": {
+        "commandIcon": require("./white/后左乘员情绪_n.png"),
+        "conditionIcon": require("./black/后左乘员情绪_n.png"),
+        "name": "63752",
+    },
+    "63753": {
+        "commandIcon": require("./white/后右乘员情绪_n.png"),
+        "conditionIcon": require("./black/后右乘员情绪_n.png"),
+        "name": "63753",
+    },
+    "63754": {
+        "commandIcon": require("./white/后中乘员情绪_n.png"),
+        "conditionIcon": require("./black/后中乘员情绪_n.png"),
+        "name": "63754",
+    },
+    "64001": {
+        "commandIcon": require("./white/蓝牙连接_n.png"),
+        "conditionIcon": require("./black/蓝牙连接_n.png"),
+        "name": "64001",
+    },
+    "64002": {
+        "commandIcon": require("./white/KTV播放状态_n.png"),
+        "conditionIcon": require("./black/KTV播放状态_n.png"),
+        "name": "64002",
+    },
+    "64003": {
+        "commandIcon": require("./white/媒体音量_n.png"),
+        "conditionIcon": require("./black/媒体音量_n.png"),
+        "name": "64003",
+    },
+    "64004": {
+        "commandIcon": require("./white/ktv话筒连接_n.png"),
+        "conditionIcon": require("./black/ktv话筒连接_n.png"),
+        "name": "64004",
+    },
+    "61704": {
+        "commandIcon": require("./white/icon_condition_RainfallIntensity.png"),
+        "conditionIcon": require("./black/icon_condition_RainfallIntensity.png"),
+        "name": "61704",
+    },
+    "61959": {
+        "commandIcon": require("./white/icon_condition_Road.png"),
+        "conditionIcon": require("./black/icon_condition_Road.png"),
+        "name": "61959",
+    },
+    "62219": {
+        "commandIcon": require("./white/icon_condition_WirelessChargingStatus.png"),
+        "conditionIcon": require("./black/icon_condition_WirelessChargingStatus.png"),
+        "name": "62219",
+    },
+    "63755": {
+        "commandIcon": require("./white/icon_condition_Gender.png"),
+        "conditionIcon": require("./black/icon_condition_Gender.png"),
+        "name": "63755",
+    },
+    "63756": {
+        "commandIcon": require("./white/icon_condition_Tired.png"),
+        "conditionIcon": require("./black/icon_condition_Tired.png"),
+        "name": "63756",
+    },
+    "63757": {
+        "commandIcon": require("./white/icon_condition_Distraction.png"),
+        "conditionIcon": require("./black/icon_condition_Distraction.png"),
+        "name": "63757",
+    },
+    "63758": {
+        "commandIcon": require("./white/icon_condition_ClothingColor.png"),
+        "conditionIcon": require("./black/icon_condition_ClothingColor.png"),
+        "name": "63758",
+    },
+    "41210": {
+        "commandIcon": require("./white/icon_condition_PointOfInterest.png"),
+        "conditionIcon": require("./black/icon_condition_PointOfInterest.png"),
+        "name": "41210",
+    },
+    "41245": {
+        "commandIcon": require("./white/icon_action_TemperatureSynchronization.png"),
+        "conditionIcon": require("./black/icon_action_TemperatureSynchronization.png"),
+        "name": "41245",
+    },
+    "41248": {
+        "commandIcon": require("./white/icon_action_FrontDefrosting.png"),
+        "conditionIcon": require("./black/icon_action_FrontDefrosting.png"),
+        "name": "41248",
+    },
+    "41249": {
+        "commandIcon": require("./white/icon_action_HAVCWorkingMode.png"),
+        "conditionIcon": require("./black/icon_action_HAVCWorkingMode.png"),
+        "name": "41249",
+    },
+    "41250": {
+        "commandIcon": require("./white/icon_action_NegativeIon.png"),
+        "conditionIcon": require("./black/icon_action_NegativeIon.png"),
+        "name": "41250",
+    },
+    "41251": {
+        "commandIcon": require("./white/icon_action_ReleaseVentSwitch.png"),
+        "conditionIcon": require("./black/icon_action_ReleaseVentSwitch.png"),
+        "name": "41251",
+    },
+    "42259": {
+        "commandIcon": require("./white/icon_action_HighBeam.png"),
+        "conditionIcon": require("./black/icon_action_HighBeam.png"),
+        "name": "42259",
+    },
+    "42529": {
+        "commandIcon": require("./white/icon_action_MidToneControl.png"),
+        "conditionIcon": require("./black/icon_action_MidToneControl.png"),
+        "name": "42529",
+    },
+    "45060": {
+        "commandIcon": require("./white/icon_action_DryDeodorization.png"),
+        "conditionIcon": require("./black/icon_action_DryDeodorization.png"),
+        "name": "45060",
+    },
+    "45061": {
+        "commandIcon": require("./white/icon_action_ElectricTable.png"),
+        "conditionIcon": require("./black/icon_action_ElectricTable.png"),
+        "name": "45061",
+    },
+    "45062": {
+        "commandIcon": require("./white/icon_action_DisableRainHanger.png"),
+        "conditionIcon": require("./black/icon_action_DisableRainHanger.png"),
+        "name": "45062",
+    },
+    "45063": {
+        "commandIcon": require("./white/icon_action_ScreenSliding.png"),
+        "conditionIcon": require("./black/icon_action_ScreenSliding.png"),
+        "name": "45063",
+    },
+    "45064": {
+        "commandIcon": require("./white/icon_action_ScreenSlidingDisabled.png"),
+        "conditionIcon": require("./black/icon_action_ScreenSlidingDisabled.png"),
+        "name": "45064",
+    },
+    "45065": {
+        "commandIcon": require("./white/icon_action_ReleaseVentSwitch.png"),
+        "conditionIcon": require("./black/icon_action_ReleaseVentSwitch.png"),
+        "name": "45065",
+    },
+    "45066": {
+        "commandIcon": require("./white/icon_action_EyeAwakening.png"),
+        "conditionIcon": require("./black/icon_action_EyeAwakening.png"),
+        "name": "45066",
+    },
+    "42774": {
+        "commandIcon": require("./white/icon_action_PlaybackMode.png"),
+        "conditionIcon": require("./black/icon_action_PlaybackMode.png"),
+        "name": "42774",
+    },
+    "42775": {
+        "commandIcon": require("./white/icon_action_PreviousSong.png"),
+        "conditionIcon": require("./black/icon_action_PreviousSong.png"),
+        "name": "42775",
+    },
+    "42777": {
+        "commandIcon": require("./white/icon_action_NextSong.png"),
+        "conditionIcon": require("./black/icon_action_NextSong.png"),
+        "name": "42777",
+    },
+    "42776": {
+        "commandIcon": require("./white/icon_action_StartPlaying.png"),
+        "conditionIcon": require("./black/icon_action_StartPlaying.png"),
+        "name": "42776",
+    },
+    "43268": {
         "commandIcon": require("./white/icon_action_FragranceRunningTime.png"),
         "conditionIcon": require("./black/icon_action_FragranceRunningTime.png"),
-        "name": "icon_action_FragranceRunningTime",
-        "includes": [43268],
+        "name": "43268",
     },
 }

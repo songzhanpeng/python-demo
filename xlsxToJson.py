@@ -27,17 +27,12 @@ for item in json_data:
     icon_name = item['图片名']
     icon_id = item['能力id']
 
-    # 如果图标名称已存在于字典中，累加includes值
-    if icon_name in icon_data:
-        icon_data[icon_name]['includes'].append(icon_id)
-    else:
-        # 否则，创建一个新的图标条目
-        icon_data[icon_name] = {
-            "commandIcon": f'require("./white/{icon_name}.png")',
-            "conditionIcon": f'require("./black/{icon_name}.png")',
-            "name": icon_name,
-            "includes": [icon_id]
-        }
+    # 否则，创建一个新的图标条目
+    icon_data[icon_id] = {
+        "commandIcon": f'require("./white/{icon_name}.png")',
+        "conditionIcon": f'require("./black/{icon_name}.png")',
+        "name": icon_name,
+    }
 
 # 手动构建JSON字符串，包含JavaScript代码标记
 icon_json_str = '{\n'
@@ -46,7 +41,6 @@ for icon_name, icon_info in icon_data.items():
     icon_json_str += f'        "commandIcon": {icon_info["commandIcon"]},\n'
     icon_json_str += f'        "conditionIcon": {icon_info["conditionIcon"]},\n'
     icon_json_str += f'        "name": "{icon_name}",\n'
-    icon_json_str += f'        "includes": {json.dumps(icon_info["includes"])},\n'
     icon_json_str += '    },\n'
 icon_json_str += '}'
 
